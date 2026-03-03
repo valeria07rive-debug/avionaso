@@ -1,7 +1,4 @@
-# ================================
-# MÓDULO: Información de la agencia
-# Persona 1
-# ================================
+
 
 def mostrar_nombre_agencia():
     print("✈️ Lotregolpe Experiences")
